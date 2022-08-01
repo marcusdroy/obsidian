@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "31d71a13531b6d07",
+        "id": "b92ae98a7590027a",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Marcus/Learning/Kubernetes/Production Kubernetes.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -68,33 +72,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7603d49dceafee71",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "156fd1fded14d4db",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "a895f6f3df641aac",
             "type": "leaf",
             "state": {
@@ -106,20 +83,31 @@
             }
           },
           {
-            "id": "121f268bba377a01",
+            "id": "ed854a59d8105166",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "calendar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "31d71a13531b6d07",
-  "lastOpenFiles": []
+  "active": "b92ae98a7590027a",
+  "lastOpenFiles": [
+    "Marcus/Learning/Kubernetes/Kubectl Cheat Sheet.md",
+    "Marcus/Learning/Roadmap.md",
+    "Twilio/Daily Notes/2022-08-01.md",
+    "Untitled.md",
+    "2022-08-01.md",
+    "Twilio/Meetings/2022-03-09 Backlog Grooming.md",
+    "Twilio/Daily Notes/2022-02-28.md",
+    "Twilio/Meetings/Manager/Natalee/2022-03-10 Onboarding Meeting With Natelle .md",
+    "Twilio/Untitled.md",
+    "Twilio/Untitled 1.md"
+  ]
 }
