@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b92ae98a7590027a",
+        "id": "d84153ecd407b463",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Marcus/Learning/Kubernetes/Production Kubernetes.md",
+            "file": "Marcus/Learning/Development/Back End/Java/Spring/Security/Spring Security.md",
             "mode": "source",
             "source": false
           }
@@ -89,25 +89,63 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "aa3909be58b602fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Marcus/Learning/Development/Back End/Java/Spring/Security/Spring Security.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ef4561562a30b185",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Marcus/Learning/Development/Back End/Java/Spring/Security/Spring Security.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "677eb29ef85c92f4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Marcus/Learning/Development/Back End/Java/Spring/Security/Spring Security.md"
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "b92ae98a7590027a",
+  "active": "d84153ecd407b463",
   "lastOpenFiles": [
-    "Marcus/Learning/Kubernetes/Kubectl Cheat Sheet.md",
+    "Twilio/Daily Notes/2022-08-02.md",
+    "Marcus/Learning/Development/Development Environment.md",
+    "Twilio/Work/Tickets/MEGA-3160.md",
+    "Twilio/Work/Tickets/MEGA-3058.md",
+    "Twilio/Work/EPIE/Argo Review.md",
+    "Twilio/Work/EPIE/On Prem Data Centers.md",
+    "Marcus/Learning/Development/Back End/Java/Spring/Security/Spring Security.md",
     "Marcus/Learning/Roadmap.md",
     "Twilio/Daily Notes/2022-08-01.md",
-    "Untitled.md",
-    "2022-08-01.md",
-    "Twilio/Meetings/2022-03-09 Backlog Grooming.md",
-    "Twilio/Daily Notes/2022-02-28.md",
-    "Twilio/Meetings/Manager/Natalee/2022-03-10 Onboarding Meeting With Natelle .md",
-    "Twilio/Untitled.md",
-    "Twilio/Untitled 1.md"
+    "Marcus/Learning/Kubernetes/Production Kubernetes.md"
   ]
 }
