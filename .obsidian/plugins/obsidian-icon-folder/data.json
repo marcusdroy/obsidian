@@ -1,0 +1,41 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FasS",
+      "FasLock",
+      "RiMessage2Line",
+      "FasShip",
+      "IbWebsiteWithImage"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraPadding": {
+      "top": 2,
+      "right": 2,
+      "bottom": 2,
+      "left": 2
+    }
+  },
+  "Twilio": "IbPhoneCallOut",
+  "Twilio/Daily Notes": "FasEnvelopeOpenText",
+  "Twilio/Meetings": "IbClipboardFull",
+  "Twilio/On Call": "IbPhoneCall",
+  "Twilio/Send Grid": "IbEmail",
+  "Twilio/Templates": "RiFileCopy2Line",
+  "Marcus": "RiMacbookLine",
+  "Marcus/Learning": "IbStackHorizontal",
+  "Marcus/Learning/Development": "FasCode",
+  "Marcus/Learning/Development/Back End/Go": "FabGolang",
+  "Marcus/Learning/Development/Back End/Java": "FabJava",
+  "Marcus/Learning/Development/Cloud": "IbCloud",
+  "Marcus/Learning/Development/Front End": "IbWebsiteWithImage",
+  "Marcus/Learning/Development/Cloud/Kubernetes": "FasShip",
+  "Marcus/Learning/Development/Cloud/NATS": "RiMessage2Line",
+  "Twilio/Work": "FabThinkPeaks",
+  "Marcus/Learning/Development/Back End/Java/Spring/Security/Spring Security.md": "FasLock",
+  "Marcus/Learning/Development/Back End/Java/Spring": "FasS"
+}

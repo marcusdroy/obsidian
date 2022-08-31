@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "31d71a13531b6d07",
+        "id": "d84153ecd407b463",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Marcus/Learning/Development/Back End/Java/Spring/Security/Spring Security.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -68,33 +72,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7603d49dceafee71",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "156fd1fded14d4db",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "a895f6f3df641aac",
             "type": "leaf",
             "state": {
@@ -106,19 +83,57 @@
             }
           },
           {
-            "id": "121f268bba377a01",
+            "id": "ed854a59d8105166",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "aa3909be58b602fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Marcus/Learning/Development/Back End/Java/Spring/Security/Spring Security.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ef4561562a30b185",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Marcus/Learning/Development/Back End/Java/Spring/Security/Spring Security.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "677eb29ef85c92f4",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Marcus/Learning/Development/Back End/Java/Spring/Security/Spring Security.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "b951d66a7264c3ba",
   "lastOpenFiles": [
