@@ -1,4 +1,6 @@
 {
-  "cssTheme": "Deep Work",
-  "translucency": false
+  "cssTheme": "",
+  "translucency": false,
+  "accentColor": "",
+  "theme": "obsidian"
 }
