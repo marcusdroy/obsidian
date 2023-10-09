@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FasS",
-      "FasLock",
-      "RiMessage2Line",
-      "FasShip",
-      "IbWebsiteWithImage"
+      "LiGlobe",
+      "🟥",
+      "LiDatabase",
+      "📚",
+      "FasS"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -19,7 +19,7 @@
       "bottom": 2,
       "left": 2
     },
-    "emojiStyle": "none",
+    "emojiStyle": "twemoji",
     "extraMargin": {
       "top": 0,
       "right": 4,
@@ -27,7 +27,7 @@
       "left": 0
     },
     "iconInTabsEnabled": false,
-    "iconsBackgroundCheckEnabled": false
+    "iconsBackgroundCheckEnabled": true
   },
   "Twilio": "IbPhoneCallOut",
   "Twilio/Daily Notes": "FasEnvelopeOpenText",
@@ -46,5 +46,9 @@
   "Marcus/Learning/Development/Cloud/NATS": "RiMessage2Line",
   "Twilio/Work": "FabThinkPeaks",
   "Marcus/Learning/Development/Back End/Java/Spring/Security/Spring Security.md": "FasLock",
-  "Marcus/Learning/Development/Back End/Java/Spring": "FasS"
+  "Marcus/Learning/Development/Back End/Java/Spring": "FasS",
+  "Marcus/Resources/Books": "📚",
+  "Marcus/Resources/Books/Databases and Big Data": "LiDatabase",
+  "Marcus/Resources/Books/Databases and Big Data/Designing Data-Intensive Applications": "🟥",
+  "Marcus/Resources": "LiGlobe"
 }

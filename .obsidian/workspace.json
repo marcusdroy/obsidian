@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c35960fc0be7bc83",
+        "id": "09dd733aed506afb",
         "type": "tabs",
         "children": [
           {
-            "id": "4232f8cd6c0d42dc",
+            "id": "0db0fe2837eace0f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -35,7 +35,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -44,14 +44,17 @@
             }
           },
           {
-            "id": "6551656f2b484611",
+            "id": "ad803e461187209d",
             "type": "leaf",
             "state": {
-              "type": "starred",
-              "state": {}
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,44 +109,22 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "floating": {
-    "id": "1fc7a2566217e922",
-    "type": "floating",
-    "children": [
-      {
-        "id": "7f532ef79dad7113",
-        "type": "window",
-        "children": [
-          {
-            "id": "3788e04d428f94b2",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d84153ecd407b463",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 528,
-        "y": 131,
-        "width": 600,
-        "height": 600,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "a895f6f3df641aac",
+  "active": "0db0fe2837eace0f",
   "lastOpenFiles": [
+    "Marcus/Resources/Books/Databases and Big Data/Designing Data-Intensive Applications/Chapter 8/The Trouble with Distributed Systems.md",
+    "Marcus/Resources/Books/Databases and Big Data/Designing Data-Intensive Applications/Chapter 8",
+    "Marcus/Resources/Books/Databases and Big Data/Designing Data-Intensive Applications",
+    "Marcus/Resources/Books/Databases and Big Data",
+    "Marcus/Resources/Books",
+    "Marcus/Projects",
+    "Marcus/Resources",
+    "Marcus/Tutorials & Courses",
+    "Marcus/Soft Skills",
+    "Marcus/Concepts & Paradigms",
+    "Marcus/Databases",
     "Untitled.md",
+    "Untitled 1.md",
     "Day Planners/Day Planner-20231008.md",
-    "Day Planners",
     "Personal/Test.md"
   ]
 }
