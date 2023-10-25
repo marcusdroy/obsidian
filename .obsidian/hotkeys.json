@@ -1,1 +1,10 @@
-{}
+{
+  "markdown:add-metadata-property": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ]
+}

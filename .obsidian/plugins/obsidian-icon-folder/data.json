@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiGlobe",
-      "🟥",
-      "LiDatabase",
-      "📚",
-      "FasS"
+      "LiBookTemplate",
+      "LiBox",
+      "LiBrainCircuit",
+      "LiBarChartBig",
+      "LiSettings"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -50,5 +50,20 @@
   "Marcus/Resources/Books": "📚",
   "Marcus/Resources/Books/Databases and Big Data": "LiDatabase",
   "Marcus/Resources/Books/Databases and Big Data/Designing Data-Intensive Applications": "🟥",
-  "Marcus/Resources": "LiGlobe"
+  "Marcus/Resources": "LiGlobe",
+  "Marcus/Databases": "LiDatabase",
+  "Marcus/DevOps & Infrastructure": "FabDev",
+  "Marcus/Concepts & Paradigms": "LiLightbulb",
+  "Marcus/Languages": "LiLanguages",
+  "Marcus/Projects": "LiFolderTree",
+  "Marcus/Soft Skills": "LiSofa",
+  "Marcus/Software Engineering": "LiBoxSelect",
+  "Marcus/Tools & Environments": "LiHammer",
+  "Marcus/Tutorials & Courses": "🔳",
+  "Marcus/Web Development": "IbWebsiteWithImage",
+  "Marcus/Databases/etcd": "LiSettings",
+  "Marcus/Projects/Scorecard": "LiBarChartBig",
+  "Marcus/Knowledge": "LiBrainCircuit",
+  "Marcus/Obsidian": "LiBox",
+  "Marcus/Obsidian/Templates": "LiBookTemplate"
 }

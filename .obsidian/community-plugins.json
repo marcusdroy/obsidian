@@ -4,5 +4,8 @@
   "obsidian-day-planner",
   "obsidian-tasks-plugin",
   "obsidian-admonition",
-  "note-refactor-obsidian"
+  "note-refactor-obsidian",
+  "homepage",
+  "dataview",
+  "templater-obsidian"
 ]

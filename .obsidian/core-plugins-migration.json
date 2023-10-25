@@ -2,8 +2,8 @@
   "file-explorer": true,
   "global-search": true,
   "switcher": false,
-  "graph": false,
-  "backlink": false,
+  "graph": true,
+  "backlink": true,
   "outgoing-link": false,
   "tag-pane": true,
   "page-preview": false,
@@ -11,7 +11,7 @@
   "templates": true,
   "note-composer": false,
   "command-palette": false,
-  "slash-command": false,
+  "slash-command": true,
   "editor-status": true,
   "markdown-importer": false,
   "zk-prefixer": false,
@@ -24,7 +24,7 @@
   "file-recovery": false,
   "publish": false,
   "sync": false,
-  "canvas": false,
+  "canvas": true,
   "properties": true,
-  "bookmarks": false
+  "bookmarks": true
 }
